@@ -4,8 +4,10 @@ import jakarta.persistence.*;
 import lombok.*;
 
 import java.time.LocalDateTime;
+import java.util.List;
 
-@Entity(name = "trajets")
+@Entity
+@Table(name = "trajets")
 @AllArgsConstructor
 @NoArgsConstructor
 @Getter
@@ -15,6 +17,7 @@ import java.time.LocalDateTime;
 public class Trajet {
 
     @Id
+    @GeneratedValue(strategy = GenerationType.IDENTITY)
     private Long id;
     private String description;
     private String pointDepart;
@@ -25,6 +28,7 @@ public class Trajet {
     @ManyToOne
     @JoinColumn(name = "conducteur_id")
     private Conducteur conducteur;
-
+    @OneToMany
+    private List<DemandeTrajet> demandes;
 
 }

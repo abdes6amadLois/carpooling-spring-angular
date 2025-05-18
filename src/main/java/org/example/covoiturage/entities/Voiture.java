@@ -1,17 +1,17 @@
 package org.example.covoiturage.entities;
 
+import com.fasterxml.jackson.annotation.JsonSubTypes;
+import com.fasterxml.jackson.annotation.JsonTypeInfo;
 import jakarta.persistence.Entity;
-import jakarta.persistence.Id;
 import lombok.*;
+import lombok.experimental.SuperBuilder;
 
-@Entity(name = "voitures")
-@NoArgsConstructor
-@AllArgsConstructor
+@Entity
 @Getter
 @Setter
-@ToString
-@Builder
+@NoArgsConstructor
+@SuperBuilder
+
 public class Voiture extends Vehicle{
-    @Id
-    private Long id;
+    private int nbrPlaces;
 }
