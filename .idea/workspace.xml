@@ -1,0 +1,197 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="b723023d-b505-4e88-af08-de190ec7cd98" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.gitattributes" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/covoiturage-frontEnd/.editorconfig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/covoiturage-frontEnd/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/covoiturage-frontEnd/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/covoiturage-frontEnd/angular.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/covoiturage-frontEnd/package-lock.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/covoiturage-frontEnd/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/covoiturage-frontEnd/src/app/app-routing.module.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/covoiturage-frontEnd/src/app/app.component.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/covoiturage-frontEnd/src/app/app.component.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/covoiturage-frontEnd/src/app/app.component.spec.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/covoiturage-frontEnd/src/app/app.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/covoiturage-frontEnd/src/app/app.module.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/covoiturage-frontEnd/src/assets/.gitkeep" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/covoiturage-frontEnd/src/favicon.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/covoiturage-frontEnd/src/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/covoiturage-frontEnd/src/main.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/covoiturage-frontEnd/src/styles.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/covoiturage-frontEnd/tsconfig.app.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/covoiturage-frontEnd/tsconfig.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/covoiturage-frontEnd/tsconfig.spec.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/front_cov/angular.json" beforeDir="false" afterPath="$PROJECT_DIR$/front_cov/angular.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/front_cov/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/front_cov/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/front_cov/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/front_cov/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/front_cov/src/app/app-routing.module.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/front_cov/src/app/app.component.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/front_cov/src/app/app.component.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/front_cov/src/app/app.component.spec.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/front_cov/src/app/app.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/front_cov/src/app/app.module.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/front_cov/src/assets/.gitkeep" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/front_cov/src/favicon.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/front_cov/src/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/front_cov/src/main.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/front_cov/src/styles.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mvnw" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mvnw.cmd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/covoiturage/CovoiturageApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/covoiturage/config/SecurityConfig.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/covoiturage/config/WebConfig.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/covoiturage/controller/ConducteurController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/covoiturage/controller/PassagerController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/covoiturage/controller/TrajetController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/covoiturage/dao/RegisterRequest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/covoiturage/dto/request/AuthRequest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/covoiturage/dto/request/LoginRequest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/covoiturage/dto/request/TrajetRequest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/covoiturage/dto/request/UserRegisterRequest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/covoiturage/dto/response/AuthResponse.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/covoiturage/dto/response/DemandeReponse.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/covoiturage/dto/response/TrajetResponse.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/covoiturage/entities/Conducteur.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/covoiturage/entities/DemandeTrajet.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/covoiturage/entities/Passager.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/covoiturage/entities/Personne.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/covoiturage/entities/Trajet.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/covoiturage/entities/Vehicle.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/covoiturage/entities/Voiture.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/covoiturage/repository/ConducteurRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/covoiturage/repository/DemandeTrajetRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/covoiturage/repository/PassagerRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/covoiturage/repository/TrajetRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/covoiturage/repository/VehicleRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/covoiturage/repository/VoitureRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/covoiturage/security/config/JwtAuthenticationFilter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/covoiturage/security/config/JwtUtils.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/covoiturage/security/config/SecurityConfig.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/covoiturage/security/controller/AuthController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/covoiturage/security/entities/Role.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/covoiturage/security/entities/User.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/covoiturage/security/repository/UserRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/covoiturage/security/services/AuthService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/covoiturage/security/services/UserDetailsServiceImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/covoiturage/service/ConducteurService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/covoiturage/service/PassagerService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/covoiturage/service/TrajetService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/application.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/org/example/covoiturage/CovoiturageApplicationTests.java" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHomeTypeForPersistence" value="WRAPPER" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 1
+}</component>
+  <component name="ProjectId" id="2vEjgS2x48D3W1dnKazgb1IIt2F" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RequestMappingsPanelOrder0": "0",
+    "RequestMappingsPanelOrder1": "1",
+    "RequestMappingsPanelWidth0": "75",
+    "RequestMappingsPanelWidth1": "75",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "Spring Boot.CovoiturageApplication.executor": "Run",
+    "git-widget-placeholder": "dev",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/Louis/IdeaProjects/Covoiturage",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "ts.external.directory.path": "C:\\Users\\Louis\\IdeaProjects\\Covoiturage\\covoiturage-frontEnd\\node_modules\\typescript\\lib",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="org.example.covoiturage.service" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="CovoiturageApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="Covoiturage" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="org.example.covoiturage.CovoiturageApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9823dce3aa75-fdfe4dae3a2d-intellij.indexing.shared.core-IU-243.21565.193" />
+        <option value="bundled-js-predefined-d6986cc7102b-e768b9ed790e-JavaScript-IU-243.21565.193" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b723023d-b505-4e88-af08-de190ec7cd98" name="Changes" comment="" />
+      <created>1743717242770</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1743717242770</updated>
+      <workItem from="1743717244415" duration="4699000" />
+      <workItem from="1744122074417" duration="816000" />
+      <workItem from="1744315824758" duration="2485000" />
+      <workItem from="1744465451729" duration="877000" />
+      <workItem from="1744482683547" duration="643000" />
+      <workItem from="1744573210214" duration="52000" />
+      <workItem from="1744894480986" duration="9750000" />
+      <workItem from="1745060596707" duration="15851000" />
+      <workItem from="1745499716769" duration="619000" />
+      <workItem from="1745502922565" duration="85000" />
+      <workItem from="1745865393478" duration="3098000" />
+      <workItem from="1746204719533" duration="18603000" />
+      <workItem from="1746285044503" duration="20224000" />
+      <workItem from="1746378304477" duration="5339000" />
+      <workItem from="1746638039040" duration="19883000" />
+      <workItem from="1747144992821" duration="2239000" />
+      <workItem from="1747150069480" duration="2630000" />
+      <workItem from="1747314174904" duration="2187000" />
+      <workItem from="1747491183208" duration="10741000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
